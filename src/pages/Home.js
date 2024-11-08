@@ -10,7 +10,7 @@ function Home() {
           <Navbar/><br/><br/>
                <div class="container" >
                   <h1>HELLO </h1>
-                  <h2>My name is thabadee kimhuadgul&#128054;</h2>
+                  <h2>My name is thabadee kimhuadgul &#128054;</h2>
                   <p>This is the program that the gods still use. Calculater Nummerical</p>
                <div> 
                   
